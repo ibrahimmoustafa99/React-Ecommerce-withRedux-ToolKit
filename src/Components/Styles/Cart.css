@@ -1,0 +1,22 @@
+.cartPage{
+    margin-top: 150px;
+}
+.cartitem {
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    margin: 30px;
+    background-color: #eeeeee;
+    border-radius: 10px;
+}
+.cartitem img{
+    width: 120px;
+    height: 150px;
+    margin: 0;
+}
+.counter{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 190px;
+
+}
